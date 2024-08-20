@@ -3,7 +3,6 @@
         <div class="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
         <div class="px-6 pb-24 pt-10 sm:pb-32 lg:col-span-7 lg:px-0 lg:pb-56 lg:pt-48 xl:col-span-6">
             <div class="mx-auto max-w-2xl lg:mx-0">
-            <img class="h-11" src="../../assets/logo.png" alt="Hospital San José de los Ojos" />
             <h1 class="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">HOSPITAL SAN JOSE DE LOS OJOS</h1>
             <p class="mt-6 text-lg leading-8 text-gray-600 text-justify">Cuidar tus ojos es nuestra misión, por eso en el Hospital San José de los Ojos trabajamos profesionales de la vista, médicos oftalmólogos y cirujanos oculares certificados y con destacada experiencia en este campo de la salud.</p>
             <div class="mt-10 flex items-center gap-x-6">

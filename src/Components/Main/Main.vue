@@ -2,7 +2,7 @@
     <section>
         <div class="grid sm:flex w-full items-start ">
             <div class="w-full sm:w-1/2 flex justify-center py-5 px-5 sm:py-20 sm:px-20">
-                <img class="w-full object-cover" src="../assets/build.jpeg">
+                <img class="w-full object-cover" src="../../assets/build.jpeg">
             </div>
             <div class="flex flex-col w-full sm:w-1/2 px-5 py-8 sm:py-20 sm:px-10 gap-7">
 

@@ -5,6 +5,9 @@ import Contact from './Components/Contact.vue';
 import Hero from './Components/hero/Hero.vue'
 import Especialities from './Components/specialities/Especialities.vue';
 import Maps from './Components/maps/Maps.vue';
+import Carousel from './components/carrusel/Carousel.vue';
+import Services from './components/services/Services.vue';
+import Footer from './components/footer/footer.vue';
 </script>
 
 <template>
@@ -14,19 +17,15 @@ import Maps from './Components/maps/Maps.vue';
     <Hero></Hero>
     <Especialities></Especialities>
     <Maps></Maps>
+
+
+
+    <Carousel />
+    <Services />
+    <Footer />
+
 </template>
 
 <style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
-}
+
 </style>

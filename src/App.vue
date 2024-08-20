@@ -1,15 +1,13 @@
 <script setup>
+import Navbar from './Components/Navbar.vue';
+import Main from './Components/Main.vue'
+import Contact from './Components/Contact.vue';
 </script>
 
 <template>
-  <div class="">
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
+<Navbar></Navbar>
+  <Main></Main>
+  <Contact></Contact>
 </template>
 
 <style scoped>

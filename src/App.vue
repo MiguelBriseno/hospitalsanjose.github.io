@@ -9,10 +9,10 @@ import Maps from './Components/maps/Maps.vue';
 
 <template>
 <Navbar></Navbar>
-  <Main></Main>
+<Hero></Hero>
+<Main></Main>
+<Especialities></Especialities>
   <Contact></Contact>
-    <Hero></Hero>
-    <Especialities></Especialities>
     <Maps></Maps>
 </template>
 

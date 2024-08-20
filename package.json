@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heroicons/vue": "^1.0.6",
+    "landing-page-hs": "file:",
     "vue": "^3.4.37"
   },
   "devDependencies": {

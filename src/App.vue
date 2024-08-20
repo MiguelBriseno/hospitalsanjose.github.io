@@ -2,12 +2,18 @@
 import Navbar from './Components/Navbar.vue';
 import Main from './Components/Main.vue'
 import Contact from './Components/Contact.vue';
+import Hero from './Components/hero/Hero.vue'
+import Especialities from './Components/specialities/Especialities.vue';
+import Maps from './Components/maps/Maps.vue';
 </script>
 
 <template>
 <Navbar></Navbar>
   <Main></Main>
   <Contact></Contact>
+    <Hero></Hero>
+    <Especialities></Especialities>
+    <Maps></Maps>
 </template>
 
 <style scoped>

@@ -12,6 +12,7 @@
     "@headlessui/vue": "^1.7.22",
     "@heroicons/vue": "^2.1.5",
     "@googlemaps/js-api-loader": "^1.16.8",
+    "landing-page-hs": "file:",
     "vue": "^3.4.37"
   },
   "devDependencies": {
